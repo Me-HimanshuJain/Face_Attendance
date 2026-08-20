@@ -9,6 +9,7 @@ The project is divided into a backend (FastAPI) and a frontend (React + Vite).
 - `backend/`: Contains the FastAPI application, database configurations, and AI model integrations.
 - `frontend/`: Contains the React + Vite frontend application, utilizing TailwindCSS for styling.
 - `dataset/`: Contains datasets and face encodings for recognition.
+- `FaceAttendanceAI/`: Contains scripts for AI model training, dataset preparation, and evaluation (e.g., anti-spoofing models).
 
 ## Features
 
