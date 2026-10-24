@@ -12,3 +12,4 @@ python-jose
 mediapipe
 tf-keras
 onnxruntime
+werkzeug
